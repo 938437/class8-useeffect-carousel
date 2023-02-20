@@ -1,0 +1,16 @@
+.main{
+    border: solid 5px var(--pink);
+}
+
+.leftarrow {
+    height: 50px;
+    width: 60px;
+    margin-left: 10px;
+    margin-top: 120px;
+}
+
+.rightarrow {
+    height: 50px;
+    width: 60px;
+    margin-left: 355px;
+}

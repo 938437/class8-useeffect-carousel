@@ -1,0 +1,23 @@
+.main{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px;
+    background-color: var(--yellow);
+}
+
+.button {
+    width: 110px;
+    height: 40px;
+    color: var(--white);
+    background-color: var(--pink);
+    border: none;
+    border-radius: 10px;
+}
+
+.number {
+    margin-top: 20px;
+    width: 100px;
+    border: solid 5px var(--pink);
+}
